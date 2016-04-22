@@ -1,4 +1,4 @@
-# monokai-syntax theme
+# Monokai syntax theme
 
 Sublime Monokai theme syntax for Atom.
 
