@@ -2,7 +2,7 @@
   "name": "monokai-syntax",
   "theme": "syntax",
   "version": "0.4.0",
-  "description": "Sublime Monokai theme syntax for Atom",
+  "description": "Monokai syntax theme for atom",
   "keywords": [
     "syntax",
     "theme"
